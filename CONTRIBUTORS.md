@@ -1,6 +1,6 @@
 # Awesome Contributors of Hacktoberfest 2019
 
-### Wajahat Karim
+### Lauren Harris
 - Photo: https://github.com/account
 - Location: Birmingham, AL
 - Bio: 💻 Open Source Contributor 💻 Learning Game Programming . Travel Agent
