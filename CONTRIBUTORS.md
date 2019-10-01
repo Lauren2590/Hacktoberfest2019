@@ -1,7 +1,7 @@
 # Awesome Contributors of Hacktoberfest 2019
 
 ### Lauren Harris
-- Photo: https://github.com/account
+- Photo: https://avatars0.githubusercontent.com/u/36383173?s=400&u=eedb8e67fbffe4c72ac5709a9ae660b31951a796&v=4
 - Location: Birmingham, AL
 - Bio: 💻 Open Source Contributor 💻 Learning Game Programming . Travel Agent
 - Github: https://github.com/Lauren2590
